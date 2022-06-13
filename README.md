@@ -3,6 +3,8 @@ Resolucion del desafio propuesto para spot2 detallado en https://github.com/sigh
 
 Para visualizar y ejecutar el desafio https://colab.research.google.com/github/sightes/DESAFIOS/blob/main/Spot2.ipynb
 
+LOS MAPAS INTERACTIVOS SOLO SON VISIBLES DESDE COLAB, NO SON VISIBLES DESDE GITHUB
+
 
 # IMPORTANTE !
 
