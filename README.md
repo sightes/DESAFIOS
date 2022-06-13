@@ -42,5 +42,23 @@ a veces se confunde con la palabra pizzarro , pizzarrenio etc etc , en futuras v
 -Mejoras de rendimiento
 -Arreglo de bugs 
 -Optimizacion y seleccion de lugares en cercanias 
+
+
+# Ejemplos 
+
+Ejemplo muestra del mapa completo del pais con todas las pizzeria
+
+  ![alt text](https://github.com/sightes/DESAFIOS/blob/main/mapa%20general.PNG?raw=true)
+  
+  
+Es posible filtrar aquella competencia que se encuentra cerca de los objetivos 
+
+  ![alt text](https://github.com/sightes/DESAFIOS/blob/main/personal%20cercanias.PNG?raw=true)
+  
+  
+ O la cercania de uno solo 
+
+  ![alt text](https://github.com/sightes/DESAFIOS/blob/main/personal%20suc.PNG?raw=true)
+
    
   
